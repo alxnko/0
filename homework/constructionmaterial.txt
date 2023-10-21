@@ -1,0 +1,10 @@
+Concrete,500
+Bricks,200
+Steel,300
+Roofing Materials,150
+Windows,100
+Doors,80
+Electrical Wiring,50
+Plumbing Supplies,120
+Insulation,80
+Paint,60
